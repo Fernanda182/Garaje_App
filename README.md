@@ -15,18 +15,18 @@ La aplicación permite:
 
 - Registrar vehículos en el garaje.
 - Ingresar información básica del vehículo:
-* Placa
-* Marca
-* Propietario
+  -Placa
+  -Marca
+  - Propietario
 - Visualizar los vehículos registrados en una tabla.
 - Limpiar los campos del formulario.
 
 # Tecnologías utilizadas
-Python
-Tkinter (interfaz gráfica)
-Programación orientada a objetos
-Arquitectura modular
-Arquitectura del proyecto
+- Python
+- Tkinter (interfaz gráfica)
+- Programación orientada a objetos
+- Arquitectura modular
+- Arquitectura del proyecto
 
 # El sistema fue organizado siguiendo la estructura vista en clase:
 garaje_app/
@@ -40,14 +40,14 @@ garaje_app/
     └── app_tkinter.py
 
 # Descripción de carpetas
-- modelos
+- modelos:
 Contiene la clase que representa el vehículo dentro del sistema.
 
-- servicios
+- servicios:
 Contiene la lógica del programa, como el registro y almacenamiento de vehículos.
 
-- ui
+- ui:
 Contiene la interfaz gráfica desarrollada con Tkinter.
 
-- main.py
+- main.py:
 Archivo principal encargado de iniciar la aplicación.
