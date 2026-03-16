@@ -15,8 +15,8 @@ La aplicación permite:
 
 - Registrar vehículos en el garaje.
 - Ingresar información básica del vehículo:
-  -Placa
-  -Marca
+  - Placa
+  - Marca
   - Propietario
 - Visualizar los vehículos registrados en una tabla.
 - Limpiar los campos del formulario.
