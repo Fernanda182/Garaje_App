@@ -49,6 +49,5 @@ Contiene la lógica del programa, como el registro y almacenamiento de vehículo
 - ui
 Contiene la interfaz gráfica desarrollada con Tkinter.
 
-main.py
-
+- main.py
 Archivo principal encargado de iniciar la aplicación.
